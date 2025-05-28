@@ -15,7 +15,7 @@
 
 ###
 
-<h2 align="center">Hello World!, I'm Bola, a Web Developer 👋🏼:</h2>
+<h2 align="center">Hello World!, I'm Emmanuel, a Web Developer 👋🏼:</h2>
 
 ###
 
